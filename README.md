@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
@@ -79,7 +78,7 @@
         <p>Hazırlayan: Kaan Turan Yılmaz | Öğrenci No: 210401031</p>
     </header>
     <main>
-        <img src="/mnt/data/vlad-tchompalov-nKNrOZ5MXZY-unsplash.jpg" alt="Bilim Yürüyüşü">
+        <img src="images/vlad-tchompalov-nKNrOZ5MXZY-unsplash.jpg" alt="Bilim Yürüyüşü">
 
         <section>
             <h2>Bilim İletişimi Nedir?</h2>
@@ -100,7 +99,7 @@
             </ul>
         </section>
 
-        <img src="/mnt/data/national-cancer-institute-Okk-eID2Z9k-unsplash.jpg" alt="Mikroskopla Çalışan Bilim İnsanları">
+        <img src="images/national-cancer-institute-Okk-eID2Z9k-unsplash.jpg" alt="Mikroskopla Çalışan Bilim İnsanları">
 
         <section>
             <h2>Bilim İletişimi Nasıl Yapılır?</h2>
