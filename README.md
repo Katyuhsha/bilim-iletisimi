@@ -16,6 +16,10 @@
             padding: 20px;
             text-align: center;
         }
+        header p {
+            font-size: 20px;
+            font-weight: bold;
+        }
         main {
             padding: 40px;
             max-width: 800px;
@@ -82,20 +86,22 @@
 
         <section>
             <h2>Bilim İletişimi Nedir?</h2>
-            <p>Bilim iletişimi, bilimsel bilgilerin toplumla anlaşılır, doğru ve etkili bir şekilde paylaşılması sürecidir. Sadece bilim insanları arasında değil, aynı zamanda halk, öğrenciler, karar vericiler ve medya gibi geniş bir kitleyle bilgi alışverişi kurmayı amaçlar.</p>
+            <p>Bilim iletişimi, bilimsel bilginin yalnızca bilim insanları arasında değil, aynı zamanda toplumun tüm kesimleriyle paylaşılmasını sağlayan bir köprüdür. Bu süreç, teknik terimlerin sadeleştirilerek, anlaşılabilir ve etkileyici bir şekilde aktarılmasını kapsar. Bilim insanlarının çalışmalarını sadece akademik çevrelerle sınırlı tutmak, bilimsel ilerlemenin toplumsal etkisini azaltır. Dolayısıyla bilim iletişimi, bilginin toplumla buluşmasını, insanların hayatlarını etkileyen gelişmeleri anlamasını ve bilinçli kararlar almasını sağlar.</p>
+
             <div class="info-box">
                 <strong>Bilgi Kutusu:</strong> Bilim iletişimi yalnızca anlatmak değil, aynı zamanda toplumla empati kurarak etkileşimde bulunmaktır.
             </div>
-            <p>Bu alan, özellikle karmaşık bilimsel kavramların sadeleştirilerek aktarılmasında büyük önem taşır. Bir buluşun, araştırmanın ya da bilimsel bir gelişmenin yalnızca akademik çevrelerde kalması, topluma yayılmaması bilimin etkisini sınırlar. İşte bilim iletişimi, bilimin gündelik hayatla buluşmasını sağlar.</p>
+
+            <p>Bilimsel araştırmaların sonuçları yalnızca akademik makalelerde kalmamalı, herkesin anlayabileceği şekilde sunulmalıdır. Bu hem bilimin demokratikleşmesini sağlar hem de insanların bilimsel gerçeklere güven duymasını kolaylaştırır. Etkili bilim iletişimi, eğitimden sağlığa, çevreden teknolojik gelişmelere kadar birçok alanda toplumsal gelişmenin temel taşlarından biridir.</p>
         </section>
 
         <section>
             <h2>Neden Önemlidir?</h2>
             <ul>
-                <li>Toplumun Bilinçlenmesi: Bilimsel bilgiye dayalı kararlar alınmasını sağlar.</li>
-                <li>Yanlış Bilgiyle Mücadele: Bilimsel olmayan, yanıltıcı bilgilerin yayılmasını önlemeye yardımcı olur.</li>
-                <li>Bilim İnsanlarıyla Toplum Arasında Köprü: Bilim insanlarının çalışmalarının neden önemli olduğunu anlatmasına olanak tanır.</li>
-                <li>Merak Uyandırır: Gençlerin bilimle ilgilenmesini teşvik eder.</li>
+                <li>Toplumun Bilinçlenmesi: Bilimsel bilgiye dayalı kararlar alınmasını sağlar. Aşılar, iklim değişikliği, genetik hastalıklar gibi konularda halkın bilgi sahibi olması, sağlıklı toplumsal politikaların gelişmesine katkı sunar.</li>
+                <li>Yanlış Bilgiyle Mücadele: Bilimsel olmayan, yanıltıcı bilgilerin yayılmasını önlemeye yardımcı olur. Özellikle dijital çağda sosyal medya üzerinden yayılan yanlış bilgilerin etkisini azaltmak için bilim iletişimi kritik bir rol oynar.</li>
+                <li>Bilim İnsanlarıyla Toplum Arasında Köprü: Bilim insanlarının çalışmalarının neden önemli olduğunu anlatmasına olanak tanır. Bu, toplumun bilimsel süreçlere olan ilgisini artırır ve bilimsel kariyerleri teşvik eder.</li>
+                <li>Merak Uyandırır: Gençlerin bilimle ilgilenmesini teşvik eder. Eğlenceli, etkileyici ve ilham verici anlatımlarla çocuklar ve gençler bilimsel düşünmeye teşvik edilir.</li>
             </ul>
         </section>
 
@@ -104,17 +110,17 @@
         <section>
             <h2>Bilim İletişimi Nasıl Yapılır?</h2>
             <ul>
-                <li>Blog yazıları, popüler bilim dergileri</li>
-                <li>Sosyal medya paylaşımları</li>
-                <li>Bilimsel videolar ve belgeseller</li>
-                <li>Konferanslar, seminerler, paneller</li>
-                <li>Eğitim programları ve atölyeler</li>
+                <li><strong>Blog yazıları ve makaleler:</strong> Bilimsel konuların sade bir dille anlatıldığı içerikler geniş kitlelere ulaşabilir.</li>
+                <li><strong>Sosyal medya platformları:</strong> Instagram, Twitter, YouTube gibi platformlarda bilim insanları, öğrenciler ve meraklılar bilimi yaygınlaştırabilir.</li>
+                <li><strong>Belgeseller ve videolar:</strong> Görsel içerikler, karmaşık konuların kolayca anlaşılmasını sağlar.</li>
+                <li><strong>Konferanslar ve seminerler:</strong> Bilim insanlarının doğrudan halka seslendiği etkinlikler etkili iletişim araçlarıdır.</li>
+                <li><strong>Okul etkinlikleri ve atölyeler:</strong> Özellikle çocuklar için yapılan deneysel ve eğlenceli etkinlikler, bilime olan ilgiyi artırır.</li>
             </ul>
 
-            <a class="button" href="https://www.bilim.org.tr" target="_blank">Bilimle İlgili Daha Fazlası</a>
+            <a class="button" href="https://tr.wikipedia.org/wiki/Bilim" target="_blank">Bilimle İlgili Daha Fazlası</a>
 
             <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/Xkq7xth5Rt8" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/34RsefZzs_Y?start=289" frameborder="0" allowfullscreen></iframe>
             </div>
         </section>
 
